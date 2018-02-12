@@ -84,6 +84,18 @@ img {
   }
 }
 
-@media(min-width: 729px) {}
-
-</style>
+@media(min-width: 729px) {
+  h1 {
+    font-size: 70px;
+  }
+  p {}
+  img {
+    max-width: 800px;
+  }
+  #image {
+    width: 361px;
+  }
+  .caption {
+    font-size: 14px;
+  }
+  </style>
