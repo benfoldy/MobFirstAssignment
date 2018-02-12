@@ -57,8 +57,5 @@ img {
 
 @media(min-width: 681px) {
   /* Any adjustments for tablets and larger go here. Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
-}
-
-@media(min-width: 729px) {}
-
-</style>
+  @media(min-width: 729px) {
+    </style>
